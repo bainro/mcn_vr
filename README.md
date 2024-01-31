@@ -24,7 +24,6 @@ Code was last built and tested with
 * Install Android Studio.
 * Install Unity, adding support for Android.
 * Open Unity and load the project folder.
-* If using an Arduino, Run [upload-firmware.vbs][upload-firmware.vbs] and follow instructions.
 	
 ## Testing scenes in Unity
 * Open `Main` scene and hit play.
@@ -35,18 +34,9 @@ Code was last built and tested with
 * Build for Android.
 * Run TabletVR.apk in each tablet.
 
-## Version History
-* Initial Release
-
-## License
-© 2015-2020 [Leonardo Molina][Leonardo Molina]
-
-This project is licensed under the [GNU GPLv3 License][LICENSE.md].
+## Contributions
+Original repo (I didn't fork, because I want commits :])
 
 [Java SDK]: http://www.oracle.com/technetwork/java/javase/downloads/index.html
 [Unity 3D]: https://unity3d.com/unity
 [Android Studio]: https://developer.android.com/studio
-[Leonardo Molina]: https://github.com/leomol
-
-[LICENSE.md]: LICENSE.md
-[upload-firmware.vbs]: Arduino/upload-firmware.vbs
