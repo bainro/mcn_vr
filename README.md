@@ -1,10 +1,6 @@
 # Tablet VR
 Controller for virtual reality tasks for execution of arbitrary experimental paradigms. The virtual environments (aka scenes) are displayed in several monitor tablets around the field of view of the subject.
 
-Please cite this work and let [me](mailto:leonardomt@gmail.com) know if you use this code for any purposes.
-
-![alt text](http://www.interphaser.com/images/content/smoothwalk-hardware-setup-labeled.png "SmoothWalk")
-
 ## Prerequisites
 * [Unity 3D][Unity 3D]
 * [Android Studio][Android Studio] (Optional)
@@ -35,7 +31,7 @@ Code was last built and tested with
 * Run TabletVR.apk in each tablet.
 
 ## Contributions
-Original repo (I didn't fork, because I want commits :])
+Original (repo)[https://github.com/leomol/SmoothWalk/tree/master?tab=GPL-3.0-1-ov-file] (I didn't fork, because I want commits :])
 
 [Java SDK]: http://www.oracle.com/technetwork/java/javase/downloads/index.html
 [Unity 3D]: https://unity3d.com/unity
