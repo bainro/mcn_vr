@@ -31,7 +31,7 @@ Code was last built and tested with
 * Run TabletVR.apk in each tablet.
 
 ## Contributions
-Original (repo)[https://github.com/leomol/SmoothWalk/tree/master?tab=GPL-3.0-1-ov-file] (I didn't fork, because I want commits :])
+Original [repo](https://github.com/leomol/SmoothWalk/tree/master?tab=GPL-3.0-1-ov-file) (I didn't fork, because I want commits :])
 
 [Java SDK]: http://www.oracle.com/technetwork/java/javase/downloads/index.html
 [Unity 3D]: https://unity3d.com/unity
