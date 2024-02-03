@@ -1,3 +1,5 @@
+Upon further discussion with my labmates leomeo's upload seems purposefully incomplete. 
+
 # Tablet VR
 Controller for virtual reality tasks for execution of arbitrary experimental paradigms. The virtual environments (aka scenes) are displayed in several monitor tablets around the field of view of the subject.
 
@@ -8,7 +10,7 @@ Controller for virtual reality tasks for execution of arbitrary experimental par
 * Port UDP 32000 enabled in the firewall/network for Unity, and any compilation.
 
 Code was last built and tested with
-* Unity 2019.3.15f1
+* Unity 2019.4.1f1
 * Android Studio 3.1.2
 	* Android SDK Platform 27 revision 3
 	* Android SDK Build-Tools 28-rc2 version 28.0.0 rc2
@@ -20,6 +22,7 @@ Code was last built and tested with
 * Install Android Studio.
 * Install Unity, adding support for Android.
 * Open Unity and load the project folder.
+* Run this for Ubuntu: ```sudo apt install libgconf-2-4```
 	
 ## Testing scenes in Unity
 * Open `Main` scene and hit play.
