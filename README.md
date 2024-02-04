@@ -1,5 +1,3 @@
-Upon further discussion with my labmates leomeo's upload seems purposefully incomplete. 
-
 # Tablet VR
 Controller for virtual reality tasks for execution of arbitrary experimental paradigms. The virtual environments (aka scenes) are displayed in several monitor tablets around the field of view of the subject.
 
